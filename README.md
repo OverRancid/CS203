@@ -1,1 +1,1 @@
-# CS203
+# CS203 - Digital Logic Design 🪶
